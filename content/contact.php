@@ -1,6 +1,6 @@
 <h1>Contact </h1>
 <br>
-<p>
+
 
 <?php 
 
@@ -57,4 +57,3 @@ else
 <?php }
 ?>
 
-</p>
